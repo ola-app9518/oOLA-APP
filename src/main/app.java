@@ -8,3 +8,6 @@ s.o.p("my method1.0")
 } 
 } 
 s.op( sms soft -ola-app)  --- test1 stash comand ---
+
+S.o.p(" my method." brach ) ;
+}
